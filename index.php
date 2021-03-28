@@ -46,7 +46,7 @@
 			<div class="top-bar">
 				<div class="content-topbar flex-sb-m h-full container">
 					<div class="left-top-bar">
-					Puedes llamar al numero: 556321788
+					Puedes llamar al numero: 9934253847
 					</div>
 
 					<div class="right-top-bar flex-w h-full">
